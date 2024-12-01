@@ -1,4 +1,4 @@
-# first_project
+# Мобилни информациски системи | Лабораториска вежба 1
 
 A new Flutter project.
 
